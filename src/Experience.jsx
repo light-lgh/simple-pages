@@ -10,7 +10,7 @@ import {
 
 export default function Experience() {
   const computer = useGLTF(
-    "https://vazxmixjsiawhamofees.supabase.co/storage/v1/object/public/models/macbook/model.gltf"
+    "https://simple-1323625984.cos.ap-shanghai.myqcloud.com/public/model.gltf"
   );
 
   return (
